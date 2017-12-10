@@ -1,2 +1,2 @@
 # hello-world
-1st github egzercise
+Newbee here, trying to learn the use of github
